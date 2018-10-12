@@ -1,2 +1,4 @@
 .venv/*
 __docs__/*
+
+.ipynb_checkpoints/*

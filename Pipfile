@@ -5,6 +5,7 @@ url = "https://pypi.org/simple"
 
 [packages]
 jupyterlab = "*"
+matplotlib = "*"
 
 [dev-packages]
 
