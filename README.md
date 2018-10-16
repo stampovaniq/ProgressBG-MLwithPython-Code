@@ -1,5 +1,3 @@
-# Source code and labs examples for "ML with Python" Course.
-
 ## Branches:
 **code** - the source code, depicting the Presentations examples
 
