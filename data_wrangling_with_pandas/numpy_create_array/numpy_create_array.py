@@ -27,9 +27,14 @@ def from_range():
   print("\nnp.arange(5,10):",a2)
   print("\nnp.arange(1,10,2):",a3)
 
+def fill_with_value():
+  a1 = np.full( (3,2), 2)
+  print(a1)
+
+
 def multi_dim():
   a1 = np.arange(10).reshape(2,5)
 
   print(a1)
 
-multi_dim()
+fill_with_value()
