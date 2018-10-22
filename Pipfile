@@ -6,6 +6,9 @@ url = "https://pypi.org/simple"
 [packages]
 jupyterlab = "*"
 matplotlib = "*"
+jupytext = "*"
+bpython = "*"
+pandas = "*"
 
 [dev-packages]
 pylint = "*"
