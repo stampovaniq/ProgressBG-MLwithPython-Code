@@ -9,6 +9,7 @@ matplotlib = "*"
 jupytext = "*"
 bpython = "*"
 pandas = "*"
+"mpld3" = "*"
 
 [dev-packages]
 pylint = "*"
