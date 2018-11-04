@@ -11,6 +11,13 @@ bpython = "*"
 pandas = "*"
 "mpld3" = "*"
 scipy = "*"
+scikit-learn = "*"
+seaborn = "*"
+wbdata = "*"
+jupyter-contrib-nbextensions = "*"
+jupyter-nbextensions-configurator = "*"
+jupyter = "*"
+mlxtend = "*"
 
 [dev-packages]
 pylint = "*"

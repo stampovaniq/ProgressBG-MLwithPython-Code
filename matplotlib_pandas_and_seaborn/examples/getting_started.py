@@ -1,3 +1,27 @@
+# ---
+# jupyter:
+#   jupytext:
+#     text_representation:
+#       extension: .py
+#       format_name: light
+#       format_version: '1.3'
+#       jupytext_version: 0.8.4
+#   kernelspec:
+#     display_name: Python 3
+#     language: python
+#     name: python3
+#   language_info:
+#     codemirror_mode:
+#       name: ipython
+#       version: 3
+#     file_extension: .py
+#     mimetype: text/x-python
+#     name: python
+#     nbconvert_exporter: python
+#     pygments_lexer: ipython3
+#     version: 3.7.0
+# ---
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -10,8 +34,13 @@ def simple_plot():
   # lets plot:
   plt.plot(x,y)
 
-  # if we want to see the plot, we must:
-  # plt.show()
+# +
+# if we want to see the plot (outside of the interactive environment), we must:
+#   plt.show()
+# -
+
+simple_plot()
+
 def multiple_subplots():
   x = np.array([1,2,3,4])
   y1 = x**2
@@ -87,5 +116,3 @@ def task_simple_plot():
 
   plt.show()
 
-
-task_simple_plot()
