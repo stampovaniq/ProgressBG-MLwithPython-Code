@@ -66,4 +66,5 @@ venv.bak/
 dmypy.json
 .swp
 ___*
+.vscode/**
 nohup.out
