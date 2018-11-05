@@ -66,5 +66,4 @@ venv.bak/
 dmypy.json
 .swp
 ___*
-!___tmp___
 nohup.out
