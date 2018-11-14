@@ -3,4 +3,3 @@
 ## Branches:
   - **code** - the source code, depicting the Presentations examples
   - **labs** - the code, written in labs
-
